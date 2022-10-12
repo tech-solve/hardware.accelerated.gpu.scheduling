@@ -1,7 +1,7 @@
 # Hardware Accelerated GPU Scheduling
 
 
-[![hardware accelerated gpu scheduling](redd.png)](https://github.com/tech-solve/hardware.accelerated.gpu.scheduling)
+[![hardware accelerated gpu scheduling](redd.png)](https://icncomputer.com/hardware-accelerated-gpu-scheduling/)
 
 
 
